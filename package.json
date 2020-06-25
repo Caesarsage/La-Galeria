@@ -1,0 +1,22 @@
+{
+  "name": "artwebsite",
+  "version": "1.0.0",
+  "description": "This is a art gallery website build with bootstrap4 and css grid ",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap-social": "^5.1.1",
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.13.1",
+    "onchange": "^3.3.0",
+    "parallelshell": "^3.0.2",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "caesarsage",
+  "license": "ISC"
+}
