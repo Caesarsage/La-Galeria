@@ -1,50 +1,17 @@
+#La Galeria
+
+Hosted at : https://caesarsage.github.io/La-Galeria/
+
 MODULE NAMES
-01-Course Overview
-02-Setting Up Our Project
-03-Adding the Unstylized Content
-04-Using Bootstrap Styles
-05-Using CSS Grid for Page Layout
-06-Using Custom CSS
-07-Summary
 
+- Course Overview
+- Setting Up Our Project
+- Adding the Unstylized Content
+- Using Bootstrap Styles
+- Using CSS Grid for Page Layout
+- Using Custom CSS
+- Summary
 
-s8-contact.png
-
-bootstrap widths
-// Extra small devices (portrait phones, less than 576px)
-// No media query for `xs` since this is the default in Bootstrap
-
-// Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) { ... }
-
-// Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
-
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
-
-// Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... }
-
-
----google fonts
-
-
-<link href="http://fonts.googleapis.com/css?family=Princess+Sofia" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
-
-
--------
-
-font awesome version 5
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-
-
-<i class="fab fa-facebook"></i>
-<i class="fab fa-twitter"></i>
-<i class="fab fa-linkedin-in"></i>
-<i class="fab fa-instagram"></i>
 
 
 --------
