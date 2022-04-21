@@ -1,4 +1,4 @@
-#La Galeria
+# La Galeria
 
 Hosted at : https://caesarsage.github.io/La-Galeria/
 
@@ -181,11 +181,6 @@ SOCIAL
 Facebook LinkedIn Twitter Instagram
 
 
-Facebook - https://www.facebook.com/pluralsight
-LinkedIn -  https://www.linkedin.com/company/pluralsight/
-Twitter - https://twitter.com/pluralsight
-Instagram - https://www.instagram.com/pluralsight
-
 -------
 
 COLUMN TWO
@@ -289,27 +284,3 @@ About the Etchings
 <li>Complete Etchings</li>
 <li>Selected Etchings</li>
 <li>About the Etchings</li>
-
------ AUTO DATE JAVASCRIPT  COPYRIGHT -----
-
-
-<p>&copy; <script>document.write(new Date().getFullYear());</script> Whatever. All rights reserved.</p>
-
-
------ ANIMATED SCROLL -----
-
-<script type="text/javascript">
-	$(document).ready(function(){
-		$('a[href^="#"]').on('click',function (e) {e.preventDefault();
-
-	    	var target = this.hash,
-	    	$target = $(target);
-
-	    	$('html, body').stop().animate({
-	        	'scrollTop': $target.offset().top
-	   	 }, 900, 'swing', function () {
-	        window.location.hash = target;
-	    	});
-		});
-	});
-</script>
